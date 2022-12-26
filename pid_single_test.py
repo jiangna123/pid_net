@@ -4,7 +4,7 @@
 # File    : test.py
 # Describe:预测图片
 # Author  : jiangna
-# 多GPU运行
+# 单GPU,edge预测
 
 import tensorflow as tf
 import argparse

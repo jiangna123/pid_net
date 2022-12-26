@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Time    : 1/19/21 11:25 AM
 # File    : test.py
-# Describe:预测图片(多GPU版)
+# Describe:预测图片(多GPU版),不带edge
 # Author  : jiangna
 
 import tensorflow as tf

@@ -1,6 +1,6 @@
 #!/usr/bin/env Python
 # coding=utf-8
-# pid_net 网络训练
+# pid_net 单GPU,edge网络训练
 # Author  : jiangna
 import argparse
 import glob

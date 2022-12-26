@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author  : jiangna
-# 多GPU版本
+# 多GPU版本,常规不带edge训练
 import argparse
 import logging
 

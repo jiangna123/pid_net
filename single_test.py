@@ -4,7 +4,7 @@
 # File    : test.py
 # Describe:预测图片
 # Author  : jiangna
-# 单GPU运行
+# 单GPU运行,不带edge训练
 
 import tensorflow as tf
 import argparse
